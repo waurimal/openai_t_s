@@ -135,6 +135,7 @@ def main():
         with right_col:
             st.subheader("텍스트 추출")
             try:
+                pdf_file.seek(0)  # 파일 포인터를 처음으로 되돌림
                 pdf_data = pdf_file.read()
                 
                 if mode == "단일 페이지":
