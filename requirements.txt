@@ -5,3 +5,5 @@ pdf2image
 Pillow
 PyPDF2
 pymupdf
+python-docx
+reportlab
