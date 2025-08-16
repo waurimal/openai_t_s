@@ -1,9 +1,6 @@
 streamlit
+PyMuPDF
 openai
-pdfplumber
-pdf2image
+easyocr
 Pillow
-PyPDF2
-pymupdf
-python-docx
-reportlab
+numpy
